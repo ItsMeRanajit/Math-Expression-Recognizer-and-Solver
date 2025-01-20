@@ -1,0 +1,5 @@
+# Ignore the 'other_imgs' folder
+other_imgs/
+
+# Ignore the 'archive' folder
+archive/
