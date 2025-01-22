@@ -20,3 +20,5 @@ This project showcases the use of machine learning and image processing to autom
 
 ![3. Expressions with 2 variables](assets/2_vars.png)
 
+## Video Demo -
+https://github.com/user-attachments/assets/b07df6ca-b865-4fa1-b425-470b23145ff7
